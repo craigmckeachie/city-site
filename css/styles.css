@@ -1,0 +1,36 @@
+body{
+    font-family: Raleway, sans-serif;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+h3 {
+  color: blueviolet;
+  font-weight: 600;
+}
+
+p{
+    margin-bottom: 2rem;
+}
+
+.active {
+  background-color: #ddd;
+  padding: 0.5rem;
+}
+
+#city-leaders {
+  border: 1px solid #ddd;
+  padding: 1rem;
+}
+
+header a:hover {
+ background-color: black;
+ color: whitesmoke;
+ font-weight: 600;
+}
+
+/* a:visited{
+    color: yellow;
+} */
+
+
